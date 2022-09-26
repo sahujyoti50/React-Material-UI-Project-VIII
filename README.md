@@ -1,3 +1,8 @@
+Output:
+
+![image](https://user-images.githubusercontent.com/15225177/192214746-ac4f1993-3183-4e9e-864a-699aa44e1133.png)
+
+*****************************************************************************************************************
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
